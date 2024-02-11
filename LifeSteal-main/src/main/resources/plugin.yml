@@ -1,0 +1,8 @@
+name: LifeSteal
+version: '${project.version}'
+main: eu.vibemc.lifesteal.Main
+api-version: 1.18
+authors: [ devPrzemuS ]
+description: Plugin for stealing lives, the grim reaper has arived....
+softdepend:
+  - PlaceholderAPI
